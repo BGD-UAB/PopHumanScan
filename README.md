@@ -3,8 +3,8 @@
 <br>
 <p>The pipeline is divided in two main parts:</p>
 <ul>
-  <li><a href='http://nbviewer.jupyter.org/github/jmurga/pophumanscanRawScripts/blob/master/scripts/notebooks/RawDataProcessing.ipynb' target="_blank">RawDataProcessing.ipynb</a>: neccesary to download and process desired pophuman.uab.cat data in order to treat raw data as DataFrames. It returns neccesary data to continue the pipeline.</li>
-  <li><a href='http://nbviewer.jupyter.org/github/jmurga/pophumanscanRawScripts/blob/master/scripts/notebooks/popHumanAnalysis.ipynb' target="_blank">popHumanAnalysis.ipynb</a></li>
+  <li><a href='https://nbviewer.jupyter.org/github/BGD-UAB/PopHumanScan/blob/master/scripts/notebooks/RawDataProcessing.ipynb' target="_blank">RawDataProcessing.ipynb</a>: neccesary to download and process desired pophuman.uab.cat data in order to treat raw data as DataFrames. It returns neccesary data to continue the pipeline.</li>
+  <li><a href='https://nbviewer.jupyter.org/github/BGD-UAB/PopHumanScan/blob/master/scripts/notebooks/popHumanAnalysis.ipynb' target="_blank">popHumanAnalysis.ipynb</a></li>
 </ul>
 <br>
 We really needed to thank PhD <a href='//scholar.google.es/citations?user=MNUHoYMAAAAJ&hl=en' target='_blank'>Carla Giner-Delgado</a> for her help and contributions on the code.
